@@ -1,0 +1,13 @@
+# Python caches (art tools)
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor files
+*.swp
+.vscode/
+.idea/
